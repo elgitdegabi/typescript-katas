@@ -3,7 +3,7 @@ import { SplitStringIntoPair } from "../../../src/splitstringintopair/split.stri
 /**
  * Unit test cases for {@link SplitStringIntoPair}
  */
-describe ("credit card mask unit test", () => {
+describe ("split string into pairs unit test", () => {
     let testCases = [
         {value: null, expected: []},
         {value: undefined, expected: []},

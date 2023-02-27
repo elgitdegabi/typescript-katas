@@ -3,7 +3,7 @@ import { EvenOrOdd } from "../../../src/even-or-odd/even.or.odd";
 /**
  * Unit test cases for {@link EvenOrOdd}
  */
-describe ("credit card mask unit test", () => {
+describe ("even or odd unit test", () => {
     let testCases = [
         {value: 0, expected: "Even"},
         {value: 1, expected: "Odd"},
